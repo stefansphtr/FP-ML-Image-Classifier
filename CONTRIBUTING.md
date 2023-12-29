@@ -11,7 +11,7 @@ First off, thank you for considering contributing to this project. It's people l
 Open a terminal and run the following git command:
 
 ```bash
-git clone "url you just copied"
+git clone https://github.com/stefansphtr/FP-ML-Image-Classifier/tree/main
 ```
 
 3. **Create a branch**: Change to the repository directory on your computer (if you are not already there) and create a new branch where you'll make your changes.
