@@ -6,7 +6,9 @@ First off, thank you for considering contributing to this project. It's people l
 
 1. **Fork the repository**: Start by forking the repository to your own GitHub account.
 
-2. **Clone the repository**: Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+2. **Clone the repository**: Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button, and then click the _copy to clipboard_ icon.
+
+For example, if your repo URL after forked the repository is https://github.com/stefansphtr/FP-ML-Image-Classifier/tree/main  
 
 Open a terminal and run the following git command:
 
