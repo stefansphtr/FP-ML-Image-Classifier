@@ -68,7 +68,7 @@ Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to con
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/stefansphtr/FP-ML-Image-Classifier/tree/main?tab=MIT-1-ov-file) file for details.
 
 ```python
 print("Thank you for reading! 🙏")
